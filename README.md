@@ -6,7 +6,7 @@ You essentially have 2 options:
 #### - Easy way
 - [Download the data zip file](https://github.com/spark-brc/2020_swatmf_pest/archive/master.zip)
 - Unzip it to a prefered location.
-- After unzip the archive file, unzip the "SWAT-MODFLOW" model zip file too.
+- After unzipping the archive file, unzip the "SWAT-MODFLOW" model zip file too.
 
 #### - Hard way (Dev mode)  
 - You will need to install Git if you don’t have it installed already. Downloads are available at [the link](https://git-scm.com/download). On windows, be sure to select the option that installs command-line tools  
@@ -48,7 +48,7 @@ pip install numpy scipy xlrd pandas matplotlib ipywidgets pillow flopy pyemu
 Then change directory into the example folder or drive:  
 - Change directory (example)
 ```bash
-cd 2020_swatmf_pest_master 
+cd 2020_swatmf_pest-master 
 ```  
 - Launch jupyter notebook 
 ```bash

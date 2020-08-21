@@ -55,4 +55,4 @@ cd 2020_swatmf_pest-master
 jupyter notebook
 ```
 
-A browser window with a Jupyter notebook instance should open.
+A browser window with a Jupyter notebook instance should open. Yay!
